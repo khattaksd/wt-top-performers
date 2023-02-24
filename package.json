@@ -1,5 +1,5 @@
 {
-  "name": "wtc-top-performers",
+  "name": "@khattaksd/wtc-top-performers",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
