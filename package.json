@@ -1,0 +1,30 @@
+{
+  "name": "wtc-top-performers",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.0.0",
+    "typescript": "^4.5.4",
+    "vite": "^2.8.0",
+    "vue-tsc": "^0.29.8"
+  },
+  "description": "This is a boiler plate to show how to develop Web Component by using Vite + Vue 3 + typescript.",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khattaksd/wt-top-performers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khattaksd/wt-top-performers/issues"
+  },
+  "homepage": "https://github.com/khattaksd/wt-top-performers#readme"
+}
